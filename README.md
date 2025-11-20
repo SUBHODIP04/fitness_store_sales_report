@@ -36,6 +36,6 @@ This dashboard was built to:
 • 	Track delivery efficiency and order fulfillment
 <br>
 • 	Enable data-driven decisions for marketing and inventory planning
-<br>
-## 🛠️ Tools Used
+
+### 🛠️ Tools Used
 • 	Power BI Desktop
